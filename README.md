@@ -2,6 +2,8 @@
 
 a tool for generating accessible design systems from a single color.
 
+![themeforge dashboard](themeforge_1.png)
+
 it's built for white-label platforms where you need to spin up a professional brand identity without manual design work. the engine handles color math, wcag compliance, and semantic token mapping.
 
 ## features
